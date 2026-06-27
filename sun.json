@@ -1,0 +1,382 @@
+{
+  "id": "sun-ok-cartographer",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@ok_cartographer Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_bbd598ba2007",
+    "display_name": "ok_cartographer",
+    "user_id": "@ok_cartographer",
+    "description": "Community Archive-derived proof-of-search sun for @ok_cartographer.",
+    "document_count": 1101,
+    "word_count": 67306,
+    "active_days": 94,
+    "emissions": [
+      "Think",
+      "God",
+      "Jung",
+      "Which",
+      "Life",
+      "Many"
+    ],
+    "generated_at": "2026-06-27T16:51:11.300145+00:00",
+    "color": "#f59e0b",
+    "mass": 11.117
+  },
+  "planets": [
+    {
+      "id": "planet_d62700eead61",
+      "name": "Think",
+      "summary": "Archive cluster around think: 753 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "jung",
+        "only",
+        "way",
+        "through"
+      ],
+      "artifacts": [
+        {
+          "id": "art_525df302c5d5",
+          "title": "Think receipt from 2024-08-24",
+          "excerpt": "@BreatheLesss “The separation of psychology from the premises of biology is purely artificial, because the human psyche lives in indissoluble union with the body.” - Carl Jung\n\nI think there is a profound truth in what you wrote.",
+          "source_document_id": "1827480637109850396",
+          "timestamp": "2024-08-24T22:58:31+00:00",
+          "url": "https://x.com/ok_cartographer/status/1827480637109850396",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, jung, only, way."
+        },
+        {
+          "id": "art_9bd17308e0b9",
+          "title": "Think receipt from 2024-10-27",
+          "excerpt": "@memeticsisyphus It works in the Netherlands due to it's homogeneity. It is a high-trust society, and because of this, they are honest with their sick days. They can see how their work actively affects their culture, since it is both homogeneous and a physically small country.\n\nThe U.S.,…",
+          "source_document_id": "1850598075825369384",
+          "timestamp": "2024-10-27T17:58:58+00:00",
+          "url": "https://x.com/ok_cartographer/status/1850598075825369384",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, jung, only, way."
+        },
+        {
+          "id": "art_5f1f3360d454",
+          "title": "Think receipt from 2024-09-26",
+          "excerpt": "@zoomertea The way I look at it, men create civilization for women.\n\n“Look what I did darling, it was all for you - the jewel of my kingdom, my queen.”",
+          "source_document_id": "1839417798407442922",
+          "timestamp": "2024-09-26T21:32:32+00:00",
+          "url": "https://x.com/ok_cartographer/status/1839417798407442922",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, jung, only, way."
+        },
+        {
+          "id": "art_e627a6590e77",
+          "title": "Think receipt from 2024-09-22",
+          "excerpt": "@ItIsHoeMath @callistoroll They say they love and respect culture but when culture does its thing and it’s not the same as what they are used to they freak out\n\nWhen you are a tourist, you are literally on a tour. You are a guest. You eat the food they put on your plate &amp; you accommodate\n\nIf not, don’t go",
+          "source_document_id": "1837909959394168987",
+          "timestamp": "2024-09-22T17:40:55+00:00",
+          "url": "https://x.com/ok_cartographer/status/1837909959394168987",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, jung, only, way."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_e852665af847",
+      "proof_score": 1,
+      "mass": 31.83,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_f50b67637628",
+      "name": "God",
+      "summary": "Archive cluster around god: 118 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "god",
+        "life",
+        "through",
+        "jung",
+        "which"
+      ],
+      "artifacts": [
+        {
+          "id": "art_2d8fab27bc4f",
+          "title": "God receipt from 2024-09-15",
+          "excerpt": "@rohanpaul_ai This perfectly encapsulates the novel, narcissistic “techno-religion” I’ve noticed has permeated mostly thinking-sensate types.\n\nWe built cathedrals to humbly honor God and reflect his beauty (although we always fail). We’ve built computers to try and become God, for if we…",
+          "source_document_id": "1835468412513833164",
+          "timestamp": "2024-09-15T23:59:05+00:00",
+          "url": "https://x.com/ok_cartographer/status/1835468412513833164",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: god, life, through, jung."
+        },
+        {
+          "id": "art_2184506b173b",
+          "title": "God receipt from 2024-08-17",
+          "excerpt": "@whatifalthist we lack God because we‘re materialistic\n\nconsumerism has been artificially pushed in our culture by the elites as it generates maximum profits. those who know God spend more moderately\n\nwe barely connect with nature.we barely create. we barely do anything human anymore.",
+          "source_document_id": "1824620286018301956",
+          "timestamp": "2024-08-17T01:32:30+00:00",
+          "url": "https://x.com/ok_cartographer/status/1824620286018301956",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: god, life, through, jung."
+        },
+        {
+          "id": "art_a944e528f881",
+          "title": "God receipt from 2024-10-15",
+          "excerpt": "\"In my view, the main reason why we use a masculine pronoun for God is because He appears masculine to us. He puts demands on us and requires that we grow up and take responsibility for ourselves and each other. Had we still lived in the Garden, then we would have used a feminine…",
+          "source_document_id": "1845979576545005722",
+          "timestamp": "2024-10-15T00:06:42+00:00",
+          "url": "https://x.com/ok_cartographer/status/1845979576545005722",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: god, life, through, jung."
+        },
+        {
+          "id": "art_3dc5b2be8df4",
+          "title": "God receipt from 2024-10-03",
+          "excerpt": "@OVOAugustus I remember a dream Jordan Peterson told once that floored me:\n\n\"I had a dream in which God put me in a boxing ring with the devil. I turned to God and asked Him \"why would you ever do such a thing?\n\nGod replied: \"because I know you'll win\"",
+          "source_document_id": "1841952884906152264",
+          "timestamp": "2024-10-03T21:26:04+00:00",
+          "url": "https://x.com/ok_cartographer/status/1841952884906152264",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: god, life, through, jung."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_c0d6a7e2b471",
+      "proof_score": 0.828,
+      "mass": 27.365,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_cf9bf151fa5f",
+      "name": "Jung",
+      "summary": "Archive cluster around jung: 85 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "jung",
+        "self",
+        "carl",
+        "evil",
+        "which"
+      ],
+      "artifacts": [
+        {
+          "id": "art_ad0d8a563523",
+          "title": "Jung receipt from 2024-09-11",
+          "excerpt": "@DylanoA4 Being a huge fan of Jung, I’ve noticed that despite all of his incredible wisdom and tools to gain insight into one’s mind, faith is by far the most important characteristic for somebody to embody, second only to love, to grow spiritually &amp; practically.",
+          "source_document_id": "1833920037322916068",
+          "timestamp": "2024-09-11T17:26:24+00:00",
+          "url": "https://x.com/ok_cartographer/status/1833920037322916068",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: jung, self, carl, evil."
+        },
+        {
+          "id": "art_590ed0a5e17c",
+          "title": "Jung receipt from 2024-10-16",
+          "excerpt": "@nakfourium “The separation of psychology from the premises of biology is purely artificial, because the human psyche lives in indissoluble union with the body.” - Carl Jung",
+          "source_document_id": "1846581011670249862",
+          "timestamp": "2024-10-16T15:56:35+00:00",
+          "url": "https://x.com/ok_cartographer/status/1846581011670249862",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: jung, self, carl, evil."
+        },
+        {
+          "id": "art_c582b0b6ef28",
+          "title": "Jung receipt from 2024-09-05",
+          "excerpt": "@whatifalthist \"One becomes two, two becomes three, and out of the third comes the one as the fourth.\" - an alchemical saying\n\nRather than bring a duality, it seems more likely to be a quaternity (Jung’s typology) or a trinity, with the 3 coalescing to produce the 4",
+          "source_document_id": "1831822366068117646",
+          "timestamp": "2024-09-05T22:31:00+00:00",
+          "url": "https://x.com/ok_cartographer/status/1831822366068117646",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: jung, self, carl, evil."
+        },
+        {
+          "id": "art_f219528d5d1d",
+          "title": "Jung receipt from 2024-10-13",
+          "excerpt": "@BlondB00 @SophiaCycles I remember Jung once saying something like \"you cannot individuate without being involved in the world and the affairs of others\" (not an exact quote). \n\nBut I do remember him saying this as well: \"every individual is a link in a chain\". \n\nJung wasn't necessarily on board with…",
+          "source_document_id": "1845518803347677238",
+          "timestamp": "2024-10-13T17:35:45+00:00",
+          "url": "https://x.com/ok_cartographer/status/1845518803347677238",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: jung, self, carl, evil."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_38384ef5e6d2",
+      "proof_score": 0.795,
+      "mass": 25.747,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_2797ea63e273",
+      "name": "Which",
+      "summary": "Archive cluster around which: 76 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "which",
+        "woman",
+        "noise",
+        "shadow",
+        "life"
+      ],
+      "artifacts": [
+        {
+          "id": "art_b3a76e20ee52",
+          "title": "Which receipt from 2024-10-09",
+          "excerpt": "@VividVoid_ Integrating the shadow is a tricky concept.\n\nOur shadow self operates unconsciously, hence why it casts a shadow off of our light (which is consciousness).\n\nIt only makes sense, then, when we look at our shadow with our light (conscious awareness), it is integrated not as a…",
+          "source_document_id": "1844036914351153354",
+          "timestamp": "2024-10-09T15:27:15+00:00",
+          "url": "https://x.com/ok_cartographer/status/1844036914351153354",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, woman, noise, shadow."
+        },
+        {
+          "id": "art_fbb2cb90b20a",
+          "title": "Which receipt from 2024-09-25",
+          "excerpt": "@ItIsHoeMath I’ve thought about this a lot from a different angle - the Jungian one.\n\nThere is a mother complex known as the “Puer aeternus” devouring mother complex. Peter Pan syndrome if you will.\n\nOur society has become the devouring feminine, which attempts to keep the man a perpetual…",
+          "source_document_id": "1839048921504453047",
+          "timestamp": "2024-09-25T21:06:45+00:00",
+          "url": "https://x.com/ok_cartographer/status/1839048921504453047",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, woman, noise, shadow."
+        },
+        {
+          "id": "art_685358046c1b",
+          "title": "Which receipt from 2024-09-23",
+          "excerpt": "@9mm_smg Thank you for saying this. I’ve had a similar experience, as have some of my friends. Your perspective, bolstered by your following, is incredibly important in this discussion (which honestly lacks nuance).\n\nThe importance of ritual and intention - which you understood and took…",
+          "source_document_id": "1838308799221846195",
+          "timestamp": "2024-09-23T20:05:46+00:00",
+          "url": "https://x.com/ok_cartographer/status/1838308799221846195",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, woman, noise, shadow."
+        },
+        {
+          "id": "art_07933f634cb7",
+          "title": "Which receipt from 2024-10-30",
+          "excerpt": "@meghaverma_art I truly don't see it as bending over backwards. Yes, we must return to our roots - which is to spread the Gospel to all, for every knee shall bow and every tongue shall confess. \n\nJapan's population has only 400,00 thousand Catholics. This is the same number at the first arrival…",
+          "source_document_id": "1851676764650770574",
+          "timestamp": "2024-10-30T17:25:17+00:00",
+          "url": "https://x.com/ok_cartographer/status/1851676764650770574",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, woman, noise, shadow."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_af36b1f7d809",
+      "proof_score": 0.784,
+      "mass": 26.994,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_c2803be615cf",
+      "name": "Life",
+      "summary": "Archive cluster around life: 31 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "life",
+        "social",
+        "utterly",
+        "other",
+        "shadow"
+      ],
+      "artifacts": [
+        {
+          "id": "art_44941605bcc0",
+          "title": "Life receipt from 2024-10-26",
+          "excerpt": "From now on, I will try and live as if my life was an act of worship.",
+          "source_document_id": "1850188120504877258",
+          "timestamp": "2024-10-26T14:49:57+00:00",
+          "url": "https://x.com/ok_cartographer/status/1850188120504877258",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: life, social, utterly, other."
+        },
+        {
+          "id": "art_eb39d9100dad",
+          "title": "Life receipt from 2024-11-08",
+          "excerpt": "Marriage is liberation (if you choose the right woman).\n\nWe aren't tied down when we get married: we are set free.\n\nHow wonderful is it that we bear this life in harmony with our other halves?\n\nMarriage is an enhancement, so choose wisely. https://t.co/Be4IfbRHc6",
+          "source_document_id": "1855034474947322135",
+          "timestamp": "2024-11-08T23:47:38+00:00",
+          "url": "https://x.com/ok_cartographer/status/1855034474947322135",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: life, social, utterly, other."
+        },
+        {
+          "id": "art_90ccee84f134",
+          "title": "Life receipt from 2024-10-23",
+          "excerpt": "@PrinceManayBora the subtle nod is often life giving",
+          "source_document_id": "1849160220452200899",
+          "timestamp": "2024-10-23T18:45:26+00:00",
+          "url": "https://x.com/ok_cartographer/status/1849160220452200899",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: life, social, utterly, other."
+        },
+        {
+          "id": "art_fd733eb67088",
+          "title": "Life receipt from 2024-09-27",
+          "excerpt": "The degradation of the notion that one has a soulmate in life - a wife they were destined to meet, love, cherish, and utterly enmesh with - has been utterly catastrophic for Western society.\n\nRomanticism is utterly dead, living only in the hearts of the few. \n\nMen have ceased to… https://t.co/lzq9QmwQyn",
+          "source_document_id": "1839504386373914998",
+          "timestamp": "2024-09-27T03:16:36+00:00",
+          "url": "https://x.com/ok_cartographer/status/1839504386373914998",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: life, social, utterly, other."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_a8afe7a1110f",
+      "proof_score": 0.697,
+      "mass": 22.431,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_fe569bdb8e08",
+      "name": "Many",
+      "summary": "Archive cluster around many: 38 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "many",
+        "japan",
+        "man",
+        "women",
+        "only"
+      ],
+      "artifacts": [
+        {
+          "id": "art_472f862c4e61",
+          "title": "Many receipt from 2024-10-23",
+          "excerpt": "@VividVoid_ this is unironically one of the most important aspects of parenting.\n\na father who shows no interest, or even disdain, towards his son or daughters hobbies is forever setting them up to lack confidence &amp; worth in themselves. \n\nmany parents do not even ‘see‘ their children - just…",
+          "source_document_id": "1849104543822307345",
+          "timestamp": "2024-10-23T15:04:12+00:00",
+          "url": "https://x.com/ok_cartographer/status/1849104543822307345",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: many, japan, man, women."
+        },
+        {
+          "id": "art_34fc4c482459",
+          "title": "Many receipt from 2024-10-10",
+          "excerpt": "@DefenderOfBasic Super interesting story, I know exactly what you mean.\n\nIt may help to mention I’m in Florida, so the dynamic may be different in other states.\n\nBut it’s funny. When I was growing up, I was a part of the tribe. I fit into the culture in many ways. I was one of the “popular cool…",
+          "source_document_id": "1844426311009435766",
+          "timestamp": "2024-10-10T17:14:34+00:00",
+          "url": "https://x.com/ok_cartographer/status/1844426311009435766",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: many, japan, man, women."
+        },
+        {
+          "id": "art_2740b688a789",
+          "title": "Many receipt from 2024-11-07",
+          "excerpt": "@eigenrobot @nosilverv @elonmusk how many hours do u work a week poasting? is it a reasonable roi?",
+          "source_document_id": "1854564251861762515",
+          "timestamp": "2024-11-07T16:39:08+00:00",
+          "url": "https://x.com/ok_cartographer/status/1854564251861762515",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: many, japan, man, women."
+        },
+        {
+          "id": "art_d32073d2759c",
+          "title": "Many receipt from 2024-11-07",
+          "excerpt": "@_primamateria It is interesting. There are many unconscious fools we meet in our daily lives. Many of these fools are led to commit heinous acts of sin.\n\nOften, however, I come across people who are delightfully unconscious, like a hallowed animal, who trust their instincts so well and are in…",
+          "source_document_id": "1854594286043406678",
+          "timestamp": "2024-11-07T18:38:29+00:00",
+          "url": "https://x.com/ok_cartographer/status/1854594286043406678",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: many, japan, man, women."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_e8499af7a88c",
+      "proof_score": 0.716,
+      "mass": 23.396,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
